@@ -10,3 +10,9 @@ app.get('/',(req,res)=>{
 app.listen(PORT,()=>{
     console.log('server listening at port',PORT)
 })
+
+//HTTP methods
+//GET
+//PUSH
+//PUT
+//DELETE
