@@ -1,0 +1,5 @@
+Express is a popular web framework which is built on top of NodeJS
+Express provides flexibility while creating http servers, routing, middleware and error handling
+Express is widely used in all backend server for webapp'serverit can be also used for complex web app 
+
+backend -> 5000 port
