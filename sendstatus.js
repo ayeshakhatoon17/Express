@@ -4,7 +4,7 @@ const PORT = 5000;
 const app = express();
 
 app.get('/',(req,res)=>{
-    res.status(200).send("work hora dekhe")
+    res.status(200).send("work hora dekhe") // it send custom status code 
 })
 
 app.listen(PORT,()=>{
