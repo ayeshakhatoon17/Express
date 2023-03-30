@@ -5,7 +5,7 @@ const app = express()
 
 
 app.get('/name/:fname',(req,res)=>{
-    console.log(req.params)
+    console.log(req.params) 
 
 res.send(req.params)
 
